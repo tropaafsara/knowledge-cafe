@@ -1,0 +1,17 @@
+.author-info{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.outer-div{
+    display: flex;
+    justify-content: space-between;
+}
+.blog-img{
+    width: 100%;
+    margin-top: 40px;
+  
+  }
+  .author-img{
+    width: 8%;
+    border-radius: 50%;
+  }
