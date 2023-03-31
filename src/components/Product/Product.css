@@ -6,12 +6,27 @@
     display: flex;
     justify-content: space-between;
 }
+.inner-div{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
 .blog-img{
     width: 100%;
     margin-top: 40px;
-  
+    border-radius: 1%;
   }
   .author-img{
-    width: 8%;
+    width: 10%;
+    height: 70%;
     border-radius: 50%;
+    
+  }
+  .right-div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .bookmark-logo{
+    height: 15px;
   }

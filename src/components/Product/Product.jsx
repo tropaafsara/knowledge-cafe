@@ -1,14 +1,22 @@
 import React from 'react';
 import './Product.css'
+import bookmark from '../../images/bookmark.png'
 const Product = (props) => {
-    // console.log(props.product)
-    const {id,Author_name,Blog_title, Blog_images, Author_images,Publish_Date} = props.product;
+    // console.log(props)
+    const {id,Author_name,Blog_title, Blog_images, Author_images,Publish_Date,Read_time} = props.product;
+    const handleBookmarks   =props.handleBookmarks;
+
+
+
+
+    
     return (
         <div>
-            
+           
             <img className='blog-img' src={Blog_images}alt="" srcset="" />
 
             <div className='outer-div'>
+
             <div className='inner-div'>
             <img className='author-img' src={Author_images}alt="" srcset="" />
             <div>
@@ -17,9 +25,9 @@ const Product = (props) => {
             </div>
             </div>
 
-            <div>
-            <p>5 min read</p>
-            <button>bol</button>
+            <div className='right-div'>
+            <p>{Read_time} min read</p>
+            <img onClick={()=>handleBookmarks(props.product)} className='bookmark-logo' src={bookmark} alt="" srcset="" />
             </div>
 
             </div>

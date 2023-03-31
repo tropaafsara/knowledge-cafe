@@ -1,4 +1,23 @@
 .cafe-container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 4fr 2fr;
+    gap: 24px;
+    margin-right: 120px;
+}
+.bookmark-container{
+
+    border: 1px solid gray;
+    background: rgba(17, 17, 17, 0.05);
+border-radius: 8px;
+padding: 20px 30px 16px 30px;
+}
+.spentTime{
+    border: 1px solid #6047EC;
+    color: #6047EC;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background: rgba(96, 71, 236, 0.1);
+    border-radius: 5px;
 }

@@ -6,4 +6,7 @@
 }
 .img-logo{
     border-radius: 50%;
+    height: 100%;
+    width: 5%;
+    margin-right: 100px;
 }
