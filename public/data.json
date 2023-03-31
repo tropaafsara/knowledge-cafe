@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6426be8fd5d0e41ddf50e117",
+    "Author_name": "Grace Nieves",
+    "Blog_title": "How to learn Data Structure & Algorithm",
+    "Blog_images": "https://i1.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/06/DS-Algorithm.jpg?fit=1200%2C628&ssl=1",
+    "Author_images": "https://media.istockphoto.com/id/1336524166/photo/young-book-author.jpg?b=1&s=170667a&w=0&k=20&c=kKFMhHdaNewiWER1eiosb-3KVFO7o57Mz4lvzIoAJOo=",
+    "Publish_Date": "Mar 16 "
+  },
+  {
+    "id": "6426be8f6a5f61d21148a3c3",
+    "Author_name": "Howard Mclaughlin",
+    "Blog_title": "How to get your first job as a self-taught programmer",
+    "Blog_images": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nJTIwc2V0dXB8ZW58MHx8MHx8&w=1000&q=80",
+    "Author_images": "https://media.istockphoto.com/id/1183038846/photo/theres-a-reason-im-still-standing.jpg?s=612x612&w=0&k=20&c=ggMjWlWBEuJXmtlL9dz34nidAykmdgVVl_EC4PYdwKA=",
+    "Publish_Date": "Jan 20 "
+  },
+  {
+    "id": "6426be8fdb219c62527cb6f3",
+    "Author_name": "Gill Cooley",
+    "Blog_title": "How to Get a job in FAANG company",
+    "Blog_images": "https://miro.medium.com/v2/resize:fit:1200/0*5sj5sTsrFEy5IqiT.png",
+    "Author_images": "https://media.istockphoto.com/id/856410942/photo/portrait-of-man-in-his-40s-with-grey-hair-and-beard-smiling-towards-camera.jpg?s=612x612&w=0&k=20&c=ebPGzgl1LBiDa10ifHavfmCWKxca5_GC7pnq7K8uzhU=",
+    "Publish_Date": "Nov 4 "
+  },
+  {
+    "id": "6426be8f2ad553965a7b7abe",
+    "Author_name": "Knowles Mosley",
+    "Blog_title": "How to learn Machine Learning",
+    "Blog_images": "https://www.udacity.com/blog/wp-content/uploads/2022/07/Hacker_Blog-scaled.jpeg",
+    "Author_images": "https://media.istockphoto.com/id/185274647/photo/elegant-business-woman-smiling-on-a-white-background.jpg?s=612x612&w=0&k=20&c=6OLE8Jit5VuAW8y39fV6edfAFs70mzMQF0XhsMSosHA=",
+    "Publish_Date": "Oct 11"
+  },
+  {
+    "id": "6426be8fbab96a587ce08852",
+    "Author_name": "Gilda Keith",
+    "Blog_title": "How to create projects with React",
+    "Blog_images": "https://www.tarlogic.com/wp-content/uploads/2022/03/hacking-2.jpg",
+    "Author_images": "https://media.istockphoto.com/id/497637014/photo/portrait-of-senior-man-with-beard-on-book-market.jpg?s=612x612&w=0&k=20&c=SJ8WuRDvLBD_zYq1OgLdvw8WDmiwxUB27mFg0Sq9S5U=",
+    "Publish_Date": "Feb 24"
+  }
+]
