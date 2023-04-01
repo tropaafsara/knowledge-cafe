@@ -61,7 +61,7 @@ const Cafe = () => {
             }
             </div>
             <div >
-                <p className='spentTime'><b>Spent time on read : {total} min</b></p>
+                <p className='spentTime'><b>Spent time on  {total} min</b></p>
                 <div>
                 <h4 className="bookmark-container">Bookmarked Blogs: {bookmarked_blogs.length}</h4>
                 
