@@ -2,7 +2,7 @@ import React from 'react';
 import './Product.css'
 import bookmark from '../../images/bookmark.png'
 const Product = (props) => {
-    // console.log(props)
+    // console.log(props.product.Blog_title)
     const {id,Author_name,Blog_title, Blog_images, Author_images,Publish_Date,Read_time} = props.product;
     const handleBookmarks   =props.handleBookmarks;
 
